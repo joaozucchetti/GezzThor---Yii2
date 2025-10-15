@@ -5,7 +5,8 @@
 <img width="2559" height="939" alt="image" src="https://github.com/user-attachments/assets/bcf22fdb-3360-4ec8-9efd-d6e8cdc164ec" />
 <img width="2554" height="935" alt="image" src="https://github.com/user-attachments/assets/3ee77a54-cdcd-4b05-b496-40b9a247b288" />
 <img width="2557" height="937" alt="image" src="https://github.com/user-attachments/assets/a003cc95-0989-4921-9a82-0b71b22a22db" />
-<img width="2559" height="928" alt="image" src="https://github.com/user-attachments/assets/af755e21-9fed-4c20-a940-ad0e4f632d74" />
+<img width="2533" height="932" alt="image" src="https://github.com/user-attachments/assets/fa19b7a9-108a-4b79-8bb5-8580a3afceac" />
+
 
 
 Sistema de gerenciamento de projetos de arquitetura desenvolvido com **Yii2 Framework**, PHP e MySQL.
